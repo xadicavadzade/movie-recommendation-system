@@ -3,6 +3,5 @@
 A machine learning project for recommending movies to users.
 
 ## Files:
-- filmrecommendation.ipynb - Main notebook
-- practice_18_rs.py - Python implementation
-- main.py - Main application file
+- practice_18_rs.py - Main recommendation system
+- inference.py - Inference script for making predictions
