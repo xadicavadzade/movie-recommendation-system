@@ -1,0 +1,15 @@
+# Ignore large/unnecessary files
+*.pdf
+*.xlsx
+*.png
+*.jpg
+*.jpeg
+*.zip
+*.rar
+*.7z
+Excel_Data_Analytics_Course*
+
+# Allow specific CSV files for the project
+
+# Ignore other CSV files
+*.csv
